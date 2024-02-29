@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gufransiddiqui0101&label=Profile%20views&color=0e75b6&style=flat" alt="gufransiddiqui0101" /> </p>
 
-- 🔭 I’m currently working on [Weather App](https://gufransiddiqui0101.github.io/WeatherApp/)
+
 
 - 🌱 I’m currently learning **Spring boot**
 
