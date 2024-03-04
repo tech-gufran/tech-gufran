@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/gufran-ahmad-siddiqui-232756278)
 
