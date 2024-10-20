@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/gufran-ahmad-siddiqui-232756278)
 
-- 💬 Ask me about **Anything Related to Frontend...!**
+- 💬 Ask me about **Anything Related to Frontend and Backend...!**
 
 - 📫 How to reach me **gufransiddiqi111@gmail.com**
 
