@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m **Web Developer**
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/gufran-ahmad-siddiqui-232756278)
 
